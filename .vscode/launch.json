@@ -1,0 +1,71 @@
+
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "program",
+            "request": "launch",
+            "mainClass": "program",
+            "projectName": "Java saker relaterade till prrprr01_e9de46f0"
+        },
+        {
+            "type": "java",
+            "name": "calculatortest3",
+            "request": "launch",
+            "mainClass": "calculatortest3",
+            "projectName": "Java saker relaterade till prrprr01_e9de46f0"
+        },
+        {
+            "type": "java",
+            "name": "calculatortest2",
+            "request": "launch",
+            "mainClass": "calculatortest2",
+            "projectName": "Java saker relaterade till prrprr01_e9de46f0"
+        },
+        {
+            "type": "java",
+            "name": "calculatortest",
+            "request": "launch",
+            "mainClass": "calculatortest",
+            "projectName": "Java saker relaterade till prrprr01_e9de46f0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Scannersak",
+            "request": "launch",
+            "mainClass": "Scannersak",
+            "projectName": "Java saker relaterade till prrprr01_e9de46f0"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "Java saker relaterade till prrprr01_e9de46f0"
+        },
+        {
+            "type": "java",
+            "name": "rpgspel",
+            "request": "launch",
+            "mainClass": "rpgspel",
+            "projectName": "Java saker relaterade till prrprr01_e9de46f0"
+        },
+        {
+            "type": "java",
+            "name": "thing1",
+            "request": "launch",
+            "mainClass": "thing1",
+            "projectName": "Java saker relaterade till prrprr01_e9de46f0"
+        }
+    ]
+}
